@@ -17,3 +17,9 @@ pip3 install pillow
 ```
 
 # Then just run it!
+
+```python3 Spool.py```
+
+or
+
+```python Spool.py```
